@@ -11,3 +11,7 @@ Este é um script Python criado para treinar a sintaxe do Python e praticar a ma
 ## Objetivo
 
 O objetivo deste projeto é praticar e consolidar meus conhecimentos em Python e pandas, explorando funcionalidades básicas para manipulação e análise de dados.
+
+
+## Futuro
+Dashboard no Power BI para demonstrar habilidades em BI, incluindo análise de dados, criação de relatórios interativos e sugestões de melhorias baseadas em insights.
